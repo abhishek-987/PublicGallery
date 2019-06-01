@@ -1,2 +1,2 @@
 # PublicGallery
-Upload images into your public Gallery and showcase your world...
+Upload images into your public Gallery
